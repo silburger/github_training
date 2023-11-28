@@ -1,9 +1,9 @@
 ---
-name: "\U0001F41E Bug report wulfland"
+name: Bug report silburger
 about: Create a report to help us improve
-title: "[Bug]:"
+title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: silburger
 
 ---
 
